@@ -1,3 +1,5 @@
+**Hola, soy Richard Luis Diaz** 👋
+
 Me considereo un apasionado del mundo de los datos y de la tecnologia que los rodea. Llevo más de 15 años vinculado al mundo del análisis y desarrollo de soluciones de analítica de datos mediante tecnologías Microsoft. 
 Actualmente desarrollo mi pasión en [Verne Group](https://www.vernegroup.com/) compartiendo momentos con un equipo fantástico desde hace casi 10 años. 
  
