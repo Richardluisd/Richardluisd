@@ -5,7 +5,7 @@ Actualmente desarrollo mi pasión en [Verne Group](https://www.vernegroup.com/) 
  
 Durante este viaje las certificaciones de Microsoft siempre han estado presentes, entre ellas destaco las siguientes: Azure Data Engineer, Power BI Data Analyst Associate, Azure Enterprise Data Analyst Associate. 
 Además, otra de mis pasiones es impartir formaciones y participar en eventos de comunidad, estando certificado como Trainer por parte de Microsoft.
-En estos últimos años también he participado en proyectos Databricks forma parte central de plataformas analiticas de datos llevandome a especilizarme y certificarme como Databricks Data Engineer.
+En estos últimos años también he participado en proyectos donde Databricks forma parte central de plataformas analiticas de datos llevandome a especilizarme y certificarme como Databricks Data Engineer.
 
 - 🔭 Actualmente, estoy trabajando en [Verne Group](https://www.vernegroup.com/)
 - 🌱 Estoy aprendiendo sobre datos
